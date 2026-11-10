@@ -137,4 +137,6 @@ YOLO("weights.pt").export(format="onnx")
 
 ## SDAIA Academy GitHub Repository Link
 
+Danah Alanazi & Norah Alhazani @norah-21
+
 [SDAIA Academy GitHub Repository](https://github.com/SDAIAAcademy)
