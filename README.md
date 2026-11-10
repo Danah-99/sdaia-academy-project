@@ -64,9 +64,13 @@ Precision is high (when the model predicts a class, it is usually right), while 
 
 **Demo on an unseen video:**
 
-https://github.com/user-attachments/assets/beab0a41-d91a-43e6-8591-eea304f68a37
 
-https://github.com/user-attachments/assets/eacc90cf-d3a1-40af-8478-1560c74ddc85
+
+
+https://github.com/user-attachments/assets/ecc274f5-28de-4a0f-95fb-4c653026a99c
+
+
+
 
 **Successful prediction:** most masked faces in a crowded scene are correctly detected as `with_mask`, and an unmasked person is detected as `without_mask`.
 
